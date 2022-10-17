@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LivrariaVirtual/1.0.0": {
+        "dependencies": {
+          "LivrariaVirtual.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LivrariaVirtual.dll": {}
+        }
+      },
+      "LivrariaVirtual.Domain/1.0.0": {
+        "runtime": {
+          "LivrariaVirtual.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LivrariaVirtual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LivrariaVirtual.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

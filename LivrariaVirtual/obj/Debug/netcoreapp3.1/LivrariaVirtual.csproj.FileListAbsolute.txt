@@ -1,0 +1,17 @@
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.exe
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.deps.json
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.runtimeconfig.json
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.runtimeconfig.dev.json
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.dll
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.pdb
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.csproj.AssemblyReference.cache
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.AssemblyInfoInputs.cache
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.AssemblyInfo.cs
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.dll
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.pdb
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.genruntimeconfig.cache
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.Domain.dll
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\bin\Debug\netcoreapp3.1\LivrariaVirtual.Domain.pdb
+C:\Users\vinic\source\p\LivrariaVirtual\LivrariaVirtual\obj\Debug\netcoreapp3.1\LivrariaVirtual.csproj.CopyComplete
