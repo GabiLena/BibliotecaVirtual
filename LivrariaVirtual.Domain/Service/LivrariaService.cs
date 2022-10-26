@@ -35,8 +35,7 @@ namespace LivrariaVirtual.Domain.Service
         {
             return LivrosDAO.ListaDeLivros
                 .Where(l => l.Genero == generoDoLivro).ToList();
-       
+        } //lembrar de entender a diferenca de metodos com retorno e void, 
         
-        } //lembrar de enternder a diferenca de metodos com retorno e void, 
     }
 }

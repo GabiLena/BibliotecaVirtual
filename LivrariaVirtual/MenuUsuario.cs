@@ -7,7 +7,7 @@ using static System.Console;
 
 namespace LivrariaVirtual
 {
-    public class MenuUsuario
+    public class MenuUsuario 
     {
         MenuLivraria _menuLivraria = new MenuLivraria();
         UsuarioService _usuarioService = new UsuarioService();
@@ -69,11 +69,10 @@ namespace LivrariaVirtual
         }
         private void EncaminhaParaMenuConformePerfilUsuario(Usuario usuarioPerfil)
         {
-            //acessei crie parametro do tipo usuario,uhu
             switch (usuarioPerfil.Perfil)
             {
                 case PerfilUsuario.Basico:
-                    MenuUsuarioBasicoAposOLogin();
+                    MenuUsuarioBasico.MenuUsuarioBasicoAposOLogin();
                     break;
 
                 case PerfilUsuario.Administrador:
@@ -81,7 +80,6 @@ namespace LivrariaVirtual
                     break;
             }
         }
-
         public Usuario VerificaSeUsuarioEhValido(string emailUsuario, string senhaUsuario)
         {
             var usuario = _usuarioService.PermitirAcesso(emailUsuario, senhaUsuario);
@@ -90,26 +88,6 @@ namespace LivrariaVirtual
                 return usuario;
             else
                 throw new Exception("USUARIO INVÁLIDO");
-        }
-
-        public void MenuUsuarioBasicoAposOLogin()
-        {
-            WriteLine("OLÁ USUARIO! O QUE DESEJA? ");
-            WriteLine("A - PESQUISAR LIVROS");
-            WriteLine("B - CONTINUAR MINHA LEITURA");
-            string resposta = ReadLine().ToLower().Trim();
-
-            if (resposta == "A")
-            {
-                //buscar livros por gênero
-            }
-            else if (resposta == "B")
-            {
-                //livros lidos
-            }
-
-            // public void BuscarLivroPorGenero()
-
         }
     }
 }

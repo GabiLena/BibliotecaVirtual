@@ -22,7 +22,7 @@ namespace LivrariaVirtual
                     Console.WriteLine("A - ME CADASTRAR");
                     Console.WriteLine("B - FAZER LOGIN"); // IF LOGIN == DADOS ADM "OLA ADM"
                     Console.WriteLine("X - PARA SAIR");
-                    string resposta = Console.ReadLine();
+                    string resposta = Console.ReadLine();//sempre volta pra esse menu pra fazer novo login
 
 
                     switch (resposta.ToUpper())
@@ -59,12 +59,10 @@ namespace LivrariaVirtual
 }
 //organizar menus e loops porque is freaking fucking my mind
 
-//cadastro adm, talvez tenha uma chave de verificação para autorizar acesso == resolvido
+//criar menu adm, para adicionar livros e preços == resolvido
 
 // adm service == em construção
+
 //criar menu p depois do login feito, ver livro de qual genero.. == em construção
-
-//criar menu adm, para adicionar livros e preços
-
 
 //fazer um teste unitario
